@@ -1,2 +1,2 @@
 # Backtesting-RSI-model
-Backtest a Real RSI Trading Strategy using Python
+Using APIs in Python for Trading Bots !
